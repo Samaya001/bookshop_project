@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+}
+header{
+    font-family: 'Lobster';
+font-size: 49px;
+text-align: center;
+width: 1838px;
+height: 130px;
+color: 
+#109E97;
+padding-top: 20px;
+}
+.sira{
+    background-color:#109E97;; 
+    width: 1838px;
+height: 60px;
+
+
+}
+.yazi{
+    text-align: center;
+    color: white;
+    padding: 20px;
+    border: blue 2px solid;
+}
+.kitab{
+background-image: url(./Rectangle.svg);
+background-repeat: repeat-x ; 
+width: 1838px;
+height: 628px;
+}
+ .kitab{
+    display: flex;
+    padding-left: 600px;
+    padding-top: 100px;
+    border: 1px solid #109E97;
+    gap: 80px;
+}
+.ham{
+    width: 533px;
+height: 211px;
+left: 849px;
+top: 328px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+}
+img{
+    width: 300px;
+height: 391px;
+left: 449px;
+top: 307px;
+
+}
+button{
+    width: 110px;
+height: 23px;
+font-family: 'Roboto';
+background-color: #109E97;
+}
+.kitabla{
+    font-family: 'Roboto';
+font-style: normal;
+font-size: 32px; 
+text-align: center;
+text-transform: uppercase;
+left: 100px;
+
+
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    width: 960px;
+height: 1155px;
+left: 439px;
+top: 950px;
+border: 2px solid #916A6A;
+padding: 20px;
+gap: 30px;
+margin-left: 100px;
+margin-top: 50px;
+}
+.heyy{
+    width: 252px;
+height: 300px;
+top: 982px;
+border: 1px solid #109E97;
+}
+.hayy{
+    width: 150px;
+height: 227px;
+
+top: 1013px;
+padding-left: 50px;
+}
+.uff{
+    padding-left:70px;
+}
+.foot{
+    background-color: #109E97;
+    text-align: center;
+    color: white;
+    width: 1838px;
+height: 98px;
+padding-top: 20px;
+}
